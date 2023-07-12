@@ -40,6 +40,6 @@ SSAFY 사전교육이 첫 프로그래밍 경험입니다. . . .
     Espero que todos seamos amigos y que disfrutemos SSAFY!
 ---
 ![이미지2](https://i.namu.wiki/i/CAaiS1CbqJ4Tbkh9dazlxoWrXqXtNOm5XFH8YoJqAvLh3YKSI0qxoDJ0EbjRBug5ulLz4B-zJ5qxt71AeV9bRPfXTEbrtRu_A6yCTUfJwOCHcrDktJbslIU6Qe03dQ8ln0NWqz3d_v2o0KjE2S-ckA.webp)
-*귀여운 햄스터로 마무리하겠습니다.*
+</p>
 
   *감사합니다.*
