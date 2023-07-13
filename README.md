@@ -3,6 +3,7 @@
 
 ### -  전공 : 스페인어
      ¡Hola todos! Buenos días. Me llamo 유병욱.
+     외국어 전공이지만 외국어를 못해요.
 ---
 ### - MBTI? : ENTP 
 ---
@@ -21,7 +22,7 @@
      수면 
      산책
      독서 - 문학추천 감사히 받겠습니다. 
-     여행 - 두바이, 스페인, 멕시코. etc...
+     여행 - 두바이, 스페인, 멕시코. etc... 
 ---
 ### - 프로그래밍 경험 
 ![이미지1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZh7bDcnx1sqTaPH1ZWlEL_efziYVOJnbotsztkNmuzw&s)
