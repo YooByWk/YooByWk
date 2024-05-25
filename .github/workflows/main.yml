@@ -25,6 +25,4 @@ jobs:
           git config user.email "tls19190@naver.com"
           git add -A .
           git commit -m "generated"
-          git push https://${{ secrets.NEW_TOKEN }}@github.com/YooByWk/YooByWk.git
-        env: 
-          GH_TOKEN: ${{ secrets.NEW_TOKEN }}
+          git push
