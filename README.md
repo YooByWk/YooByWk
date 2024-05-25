@@ -2,17 +2,21 @@
 
 <div align="right">
 
-[한국어](./README.md) | [Español](./README.es.md)
+[한국어](./blob/master/README.md) | [Español](./blob/master/README.es.md)
 
 </div>
 
-| ![Profile Image](./20220806_155118.jpg) | 
+<div align='center'>
+
+| ![Profile Image](./20220806_155118.jpg) |
 |:---:|
 | **이름** : 유병욱 |
 | **Blog** : [https://yoobywk.github.io/](https://yoobywk.github.io/) |
 | **E-mail** : `tls19190@naver.com` |
 | **2017.03 ~ 2023.08** : 단국대학교 스페인어과 졸업 |
 | **2023.07 ~ 2024.06** : 삼성 청년 SW 아카데미 10기 |
+    
+</div>
 
 ### 언어의 경계를 넘나드는 독창적인 개발자를 꿈꿉니다
 
@@ -109,9 +113,9 @@
 
 ## 프로젝트
 
-| Mela! 이미지 | Epilogue 이미지 | BizCard 이미지 |
+| <a href="./blob/master/Mela.md"><img src="./assets/mela.png" width="100"/></a>  | <a href="./blob/master/Epilogue.md"><img src="./assets/Epilogue.png" width="100"/></a> | <a href="./blob/master/BizCard.md"><img src="./assets/BizCard.png" height="50"/></a> |
 | :---------: | :------------: | :------------: |
-|    Mela!    |     Epilogue      |     BizCard      |
+|   🎶 Mela!    |     E:pilogue      |     BizCard      |
 | 음악인을 위한 공동 작업 플랫폼 | 블록체인을 활용한 디지털 유언 서비스 | MS Teams 內 명함 관리 서비스 |
 
 ---
