@@ -2,7 +2,7 @@
 
 <div align="right">
 
-[한국어](./blob/master/README.md) | [Español](./blob/master/README.es.md)
+[한국어](./README.md) | [Español](./README.es.md)
 
 </div>
 
@@ -113,7 +113,7 @@
 
 ## 프로젝트
 
-| <a href="./blob/master/Mela.md"><img src="./assets/mela.png" width="100"/></a>  | <a href="./blob/master/Epilogue.md"><img src="./assets/Epilogue.png" width="100"/></a> | <a href="./blob/master/BizCard.md"><img src="./assets/BizCard.png" height="50"/></a> |
+| <a href="/Mela.md"><img src="./assets/mela.png" width="100"/></a>  | <a href="/Epilogue.md"><img src="./assets/Epilogue.png" width="100"/></a> | <a href="/BizCard.md"><img src="./assets/BizCard.png" height="50"/></a> |
 | :---------: | :------------: | :------------: |
 |   🎶 Mela!    |     E:pilogue      |     BizCard      |
 | 음악인을 위한 공동 작업 플랫폼 | 블록체인을 활용한 디지털 유언 서비스 | MS Teams 內 명함 관리 서비스 |
