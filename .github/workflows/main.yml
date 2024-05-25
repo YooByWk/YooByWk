@@ -17,10 +17,10 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config user.name YooByWk
-          git config user.email tls19190@naver.com
+          git config user.name "YooByWk"
+          git config user.email "tls19190@naver.com"
           git add -A .
           git commit -m "generated"
-          git push
+          git push https://${{ secrets.TOKEN }}@github.com/YooByWk/YooByWk.git
         env: 
           TOKEN: ${{ secrets.TOKEN }}
