@@ -27,4 +27,4 @@ jobs:
           git commit -m "generated"
           git push https://${{ secrets.NEW_TOKEN }}@github.com/YooByWk/YooByWk.git
         env: 
-          TOKEN: ${{ secrets.NEW_TOKEN }}
+          GH_TOKEN: ${{ secrets.NEW_TOKEN }}
