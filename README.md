@@ -6,20 +6,13 @@
 
 </div>
 
-## Profile
-
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
-<img src='./20220806_155118.jpg' width='200'>
-<div style="margin-left: 20px;">
-  
-- #### 이름 : 유병욱
-- #### Blog : https://yoobywk.github.io/
-- #### E-mail : `tls19190@naver.com`
-- #### 2017.03 ~ 2023.08 : 단국대학교 스페인어과 졸업
-- #### 2023.07 ~ 2024.06 : 삼성 청년 SW 아카데미 10기
-
-</div>
-</div>
+| ![Profile Image](./20220806_155118.jpg) | 
+|:---:|
+| **이름** : 유병욱 |
+| **Blog** : [https://yoobywk.github.io/](https://yoobywk.github.io/) |
+| **E-mail** : `tls19190@naver.com` |
+| **2017.03 ~ 2023.08** : 단국대학교 스페인어과 졸업 |
+| **2023.07 ~ 2024.06** : 삼성 청년 SW 아카데미 10기 |
 
 ### 언어의 경계를 넘나드는 독창적인 개발자를 꿈꿉니다
 
