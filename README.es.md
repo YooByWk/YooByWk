@@ -45,5 +45,73 @@ Creo firmemente en el poder del conocimiento compartido y en la sinergia que gen
 - Manejo la legibilidad y estabilidad del código a través del tipado estático.
 - Experiencia en el desarrollo de proyectos con React y TypeScript
 
-### 
-### 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+🟦🟦🟦⬜⬜
+
+He utilizado librerías como Pandas y Matplotlib para realizar análisis y visualización de datos.
+
+### Frameworks Web
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+🟦🟦🟦🟦⬜
+
+- Puedo gestionar estados globales con `Recoil`, `zustand` 
+- Tengo experiencia en el desarrollo con componentes funcionales y React hooks.
+- He desarrollado aplicaciones SPA(Single Page Application) utilizando React Router
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+🟦🟦🟦⬜⬜
+- He trabajado en proyectos pequeños utilizando Vue.js.
+- Tengo experiencia gestionando estados con Pinia.
+
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
+🟦🟦🟦⬜⬜
+
+- Puedo diseñar y desarrollar API RESTful utilizando Django.
+- Tengo experiencia desarrollando API con Django REST Framework.
+
+### Blockchain
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white)
+🟦🟦🟦🟦⬜
+
+- He implementado contratos inteligentes utilizando estructuras y modificadores en Solidity. - [Detallas del aprendizaje](https://yoobywk.github.io/blockchain/smart%20contract/2024/03/05/smartCont1.html)
+- Tengo experiencia desplegando y probando contratos inteligentes con Remix.
+
+### 모바일 개발
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
+🟦🟦🟦🟦⬜
+
+- Puedo desarrollar aplicaciones multiplataforma con Flutter.
+- Tengo experiencia desarrollando la interfaz de usuario y lógica de negocio con Flutter SDK y Dart.
+
+### Tools
+
+![Mattermost](https://img.shields.io/badge/Mattermost-0072C6?style=flat-square&logo=Mattermost&logoColor=white) 🟦🟦🟦🟦⬜
+
+- He utilizado Mattermost para la comunicación y gestión de tareas en equipo.
+- Tengo experiencia colaborando eficientemente utilizando funciones como canales, hilos y notificaciones en Mattermost.
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
+🟦🟦🟦🟦⬜
+
+- He gestionado proyectos y seguimiento de problemas utilizando Jira.
+- Tengo experiencia planificando `sprints`, asignando tareas y gestionando cronogramas con Jira.
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
+🟦🟦🟦⬜⬜
+
+- He diseñado y creado prototipos para aplicaciones web y móviles utilizando Figma.
+- Tengo experiencia en la reutilización de componentes y la construcción de sistemas de diseño para un trabajo de diseño eficiente.
+
+## Proyectos
+
+| <a href="/Mela.md"><img src="./assets/mela.png" width="100"/></a>  | <a href="/Epilogue.md"><img src="./assets/Epilogue.png" width="100"/></a> | <a href="/BizCard.md"><img src="./assets/BizCard.png" height="50"/></a> |
+| :---------: | :------------: | :------------: |
+|   <a href="/Mela.md">🎶 Mela!</a>    |     <a href="/Epilogue.md">E:pilogue</a>      |     <a href="/BizCard.md">BizCard</a>      |
+| Plataforma de colaboración para músicos | Servicio de testamento digital utilizando blockchain | Servicio de gestión de tarjetas de presentación en MS Teams |
+| 08.01.2024 ~ 16.02.2024	| 19.02.2024 ~ 05.04.2024	| 08.04.2024 ~ 17.05.2024
+
+---
