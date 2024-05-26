@@ -47,7 +47,7 @@
 🟦🟦🟦⬜⬜
 
 - 정적 타입 지정을 통해 코드의 가독성과 안정성을 높일 수 있습니다.
-- React에서 TypeScript를 사용하여 프로젝트를 개발했습니다. 
+- React에서 TypeScript를 사용하여 프로젝트를 진행한 경험이 있습니다. 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 🟦🟦🟦⬜⬜
