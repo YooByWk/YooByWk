@@ -2,7 +2,10 @@
 
 <div align="right">
 
-[한국어](./README.md) | [Español](./README.es.md)
+<!-- [한국어](./README.md) | [Español](./README.es.md) -->
+
+[![한국어](https://img.shields.io/badge/한국어-blue)](./README.md)
+[![Español](https://img.shields.io/badge/Español-red)](./README.es.md)
 
 </div>
 
