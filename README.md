@@ -120,9 +120,11 @@
 
 | <a href="/BizCard.md"><img src="./assets/BizCard.png" height="50"/></a> | <a href="/Epilogue.md"><img src="./assets/Epilogue.png" width="100"/></a> | <a href="/Mela.md"><img src="./assets/mela.png" width="100"/></a> |
 | :---------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :---------------------------------------------------------------: |
-|                    <a href="/BizCard.md">BizCard</a>                    |                   <a href="/Epilogue.md">E:pilogue</a>                  |                  <a href="/Mela.md">🎶 Mela!</a>                  |
-|                      MS Teams 內 명함 관리 서비스                       |                   블록체인을 활용한 디지털 유언 서비스                   |                  음악인을 위한 공동 작업 플랫폼                   |
-|                         2024.04.08 ~ 2024.05.17                         |                          2024.02.19 ~ 2024.04.05                        |                      2024.01.08 ~ 2024.02.16                      |
+|                    <a href="/BizCard.md">BizCard</a>                    |                   <a href="/Epilogue.md">E:pilogue</a>                    |                  <a href="/Mela.md">🎶 Mela!</a>                  |
+|                      MS Teams 內 명함 관리 서비스                       |                   블록체인을 활용한 디지털 유언 서비스                    |                  음악인을 위한 공동 작업 플랫폼                   |
+|                         2024.04.08 ~ 2024.05.17                         |                          2024.02.19 ~ 2024.04.05                          |                      2024.01.08 ~ 2024.02.16                      |
+|                               프론트엔드                                |                           프론트엔드 & 블록체인                           |                            프론트엔드                             |
+
 ---
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
