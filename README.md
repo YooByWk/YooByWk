@@ -93,7 +93,7 @@
 - Flutter를 사용하여 크로스 플랫폼 애플리케이션을 개발할 수 있습니다.
 - Flutter SDK와 Dart 언어를 활용하여 UI 및 비즈니스 로직을 개발한 경험이 있습니다.
 
-### Tools
+### 도구
 
 ![Mattermost](https://img.shields.io/badge/Mattermost-0072C6?style=flat-square&logo=Mattermost&logoColor=white) 🟦🟦🟦🟦⬜
 
