@@ -8,20 +8,20 @@
 
 <div align='center'>
 
-| ![Profile Image](./20220806_155118.jpg) |
-|:---:|
-| **이름** : 유병욱 |
+|               ![Profile Image](./20220806_155118.jpg)               |
+| :-----------------------------------------------------------------: |
+|                          **이름** : 유병욱                          |
 | **Blog** : [https://yoobywk.github.io/](https://yoobywk.github.io/) |
-| **E-mail** : `tls19190@naver.com` |
-| **2017.03 ~ 2023.08** : 단국대학교 스페인어과 졸업 |
-| **2023.07 ~ 2024.06** : 삼성 청년 SW 아카데미 10기 |
-    
+|                  **E-mail** : `tls19190@naver.com`                  |
+|         **2017.03 ~ 2023.08** : 단국대학교 스페인어과 졸업          |
+|         **2023.07 ~ 2024.06** : 삼성 청년 SW 아카데미 10기          |
+
 </div>
 
 ### 언어의 경계를 넘나드는 독창적인 개발자를 꿈꿉니다
 
-다양한 문화와 사고방식을 이해하며 이를 바탕으로 사용자에게 직관적이고 풍부한 경험을 제공하고자 합니다.
-(쓸지말지 고민)
+<!-- 다양한 문화와 사고방식을 이해하며 이를 바탕으로 사용자에게 직관적이고 풍부한 경험을 제공하고자 합니다.
+(쓸지말지 고민) -->
 
 ### 배움과 소통의 가치를 중요하게 여깁니다.
 
@@ -47,13 +47,12 @@
 🟦🟦🟦⬜⬜
 
 - 정적 타입 지정을 통해 코드의 가독성과 안정성을 높일 수 있습니다.
-- React에서 TypeScript를 사용하여 프로젝트를 진행한 경험이 있습니다. 
+- React에서 TypeScript를 사용하여 프로젝트를 진행한 경험이 있습니다.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-🟦🟦🟦⬜⬜
+🟦🟦⬜⬜⬜
 
-- Pandas, Matplotlib 등의 라이브러리를 활용하여 데이터 분석 및 시각화를 수행한 경험이 있습니다
-
+- Pandas, Matplotlib 등의 라이브러리를 활용하여 기초적인 기능 구현을 할 수 있습니다.
 
 ### 웹 프레임워크
 
@@ -61,19 +60,18 @@
 🟦🟦🟦🟦⬜
 
 - `Recoil`, `zustand` 를 사용하여 전역 상태관리를 할 수 있습니다.
-- 함수형 컴포넌트와 React hooks를 활용하여 개발한 경험이 있습니다. 
+- 함수형 컴포넌트와 React hooks를 활용하여 개발한 경험이 있습니다.
 - React Router를 사용하여 SPA(Single Page Application)를 개발하는 경험이 있습니다.
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 🟦🟦🟦⬜⬜
-- Vue.js 를 활용하여 소규모의 프로젝트를 진행한 경험이 있습니다. 
+
+- Vue.js 를 활용하여 소규모의 프로젝트를 진행한 경험이 있습니다.
 - Pinia를 활용하여 상태 관리를 수행한 경험이 있습니다.
 
-
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
-🟦🟦🟦⬜⬜
+🟦🟦⬜⬜⬜
 
-- Django를 사용하여 RESTful API를 설계하고 개발할 수 있습니다.
 - Django REST Framework를 활용하여 API 개발한 경험이 있습니다.
 
 ### 블록체인
@@ -113,12 +111,18 @@
 
 ## 프로젝트
 
-| <a href="/Mela.md"><img src="./assets/mela.png" width="100"/></a>  | <a href="/Epilogue.md"><img src="./assets/Epilogue.png" width="100"/></a> | <a href="/BizCard.md"><img src="./assets/BizCard.png" height="50"/></a> |
-| :---------: | :------------: | :------------: |
-|   <a href="/Mela.md">🎶 Mela!</a>    |     <a href="/Epilogue.md">E:pilogue</a>      |     <a href="/BizCard.md">BizCard</a>      |
-| 음악인을 위한 공동 작업 플랫폼 | 블록체인을 활용한 디지털 유언 서비스 | MS Teams 內 명함 관리 서비스 |
-| 2024.01.08 ~ 2024.02.16 | 2024.02.19 ~ 2024.04.05 | 2024.04.08 ~ 2024.05.17 |
+<!-- | <a href="/Mela.md"><img src="./assets/mela.png" width="100"/></a> | <a href="/Epilogue.md"><img src="./assets/Epilogue.png" width="100"/></a> | <a href="/BizCard.md"><img src="./assets/BizCard.png" height="50"/></a> |
+| :---------------------------------------------------------------: | :-----------------------------------------------------------------------: | :---------------------------------------------------------------------: |
+|                  <a href="/Mela.md">🎶 Mela!</a>                  |                   <a href="/Epilogue.md">E:pilogue</a>                    |                    <a href="/BizCard.md">BizCard</a>                    |
+|                  음악인을 위한 공동 작업 플랫폼                   |                   블록체인을 활용한 디지털 유언 서비스                    |                      MS Teams 內 명함 관리 서비스                       |
+|                      2024.01.08 ~ 2024.02.16                      |                          2024.02.19 ~ 2024.04.05                          |                         2024.04.08 ~ 2024.05.17                         |
+ -->
 
+| <a href="/BizCard.md"><img src="./assets/BizCard.png" height="50"/></a> | <a href="/Epilogue.md"><img src="./assets/Epilogue.png" width="100"/></a> | <a href="/Mela.md"><img src="./assets/mela.png" width="100"/></a> |
+| :---------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :---------------------------------------------------------------: |
+|                    <a href="/BizCard.md">BizCard</a>                    |                   <a href="/Epilogue.md">E:pilogue</a>                  |                  <a href="/Mela.md">🎶 Mela!</a>                  |
+|                      MS Teams 內 명함 관리 서비스                       |                   블록체인을 활용한 디지털 유언 서비스                   |                  음악인을 위한 공동 작업 플랫폼                   |
+|                         2024.04.08 ~ 2024.05.17                         |                          2024.02.19 ~ 2024.04.05                        |                      2024.01.08 ~ 2024.02.16                      |
 ---
 
 ![](./profile-3d-contrib/profile-green-animate.svg)

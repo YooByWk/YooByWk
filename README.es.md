@@ -79,7 +79,7 @@ He utilizado librerías como Pandas y Matplotlib para realizar análisis y visua
 - He implementado contratos inteligentes utilizando estructuras y modificadores en Solidity. - [Detallas del aprendizaje](https://yoobywk.github.io/blockchain/smart%20contract/2024/03/05/smartCont1.html)
 - Tengo experiencia desplegando y probando contratos inteligentes con Remix.
 
-### 모바일 개발
+### Desarrollo Móvil
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
 🟦🟦🟦🟦⬜
