@@ -1,5 +1,5 @@
 <div align='center'> 
-<img src='./assets/BizCard.png' height=125/>
+<img src='../assets/BizCard.png' height=125/>
 
 # BizCard
 
@@ -10,9 +10,9 @@
 **삼성** **청년** **SW** **아카데미** _-_ **자율** **프로젝트** **:** **기업연계-포스코인터내셔널**
 
 <p align="center">
-  <img src="./assets/ssafyLogo.png" width="100" height="50" style="display: inline; margin: 0 10px;" />
-  <img src="./assets/x.png" style="display: inline; margin: 0 10px;" />
-  <img src="./assets/poscoInt_logo.png" width="100" height="50" style="display: inline; margin: 0 10px;" />
+  <img src="../assets/ssafyLogo.png" width="100" height="50" style="display: inline; margin: 0 10px;" />
+  <img src="../assets/x.png" style="display: inline; margin: 0 10px;" />
+  <img src="../assets/poscoInt_logo.png" width="100" height="50" style="display: inline; margin: 0 10px;" />
 </p>
 
 _2024.04.08 ~ 2024.05.17_
@@ -51,12 +51,12 @@ BizCard는 MS Teams 내부에 설치하여 사용자가 디지털 명함을 관�
 
 ## 프로젝트 화면
 
-| <img src='./assets/bizcard/app.png' width='400px' height='400' /> | <img src='./assets/bizcard/app2.png' width='200px' height='400' /> |
+| <img src='../assets/bizcard/app.png' width='400px' height='400' /> | <img src='../assets/bizcard/app2.png' width='200px' height='400' /> |
 | -------------------------------------------------- | --------------------------------------------------- |
 
 <br />
 
-| <img src='./assets/bizcard/pcTeam.png' width='350px' height='200px' alt="PC 팀즈"/> | <img src='./assets/bizcard/pcAlbum.png' width="350px" height='200px' /> | <img src='./assets/bizcard/myCard.png' width='350px' height='200px' /> |
+| <img src='../assets/bizcard/pcTeam.png' width='350px' height='200px' alt="PC 팀즈"/> | <img src='../assets/bizcard/pcAlbum.png' width="350px" height='200px' /> | <img src='../assets/bizcard/myCard.png' width='350px' height='200px' /> |
 |:---:|:---:|:---:|
 | PC 환경에서의 **팀 명함** | PC 환경에서의 명함 지갑 | PC 환경에서의 내 명함 |
 

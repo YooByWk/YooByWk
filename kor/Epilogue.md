@@ -1,5 +1,5 @@
 <div align='center'> 
-<img src='./assets/Epilogue.png' width=250/>
+<img src='../assets/Epilogue.png' width=250/>
 
 # E:pilogue 
 ## 블록체인을 이용한 디지털 유언장 생성 및 전달 서비스
@@ -20,7 +20,7 @@ _2024.02.19 ~ 2024.04.05_
 
 ## 프로젝트 화면
 
-|<img src='./assets/epilogue/epilogue_sign.png' width=200 height=260/>|<img src='./assets/epilogue/epilogue_mne.png' width=200 height=260 />|<img src='./assets/epilogue/epilogue_memo.png' width=200 height=260 />| <img src='./assets/epilogue/epilogue_check.png' width=200 height=260 /> |
+|<img src='../assets/epilogue/epilogue_sign.png' width=200 height=260/>|<img src='../assets/epilogue/epilogue_mne.png' width=200 height=260 />|<img src='../assets/epilogue/epilogue_memo.png' width=200 height=260 />| <img src='../assets/epilogue/epilogue_check.png' width=200 height=260 /> |
 |:---:|:---:|:---:|:---:|
 |회원가입 화면|유언장 복구를 위한 니모닉 입력 화면|디지털 추모관 화면|유언 확인 웹 사이트|
 

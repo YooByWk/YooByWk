@@ -1,5 +1,5 @@
 <div align='center'> 
-<img src='./assets/mela.png' width=300/>
+<img src='../assets/mela.png' width=300/>
 
 # Mela! 
 ## 음악 작업을 위한 구인, 공동 작업 플랫폼
@@ -60,7 +60,7 @@ Mela!는 음악을 이제 막 시작한 아마추어, 신인 뮤지션들을 위
 
 ## 프로젝트 화면
 
-|<img src='./assets/mela/mela_land.png' width=200/>  |<img src='./assets/mela/mela_team.png' width=200/>|<img src='./assets/mela/mela_art.png' width=200/>|
+|<img src='../assets/mela/mela_land.png' width=200/>  |<img src='../assets/mela/mela_team.png' width=200/>|<img src='../assets/mela/mela_art.png' width=200/>|
 |:---:|:---:|:---:|
 |랜딩 페이지| 팀 공간| 게시물| 
 
