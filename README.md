@@ -18,6 +18,7 @@
 |                  **E-mail** : `tls19190@naver.com`                  |
 |         **2017.03 ~ 2023.08** : 단국대학교 스페인어과 졸업          |
 |         **2023.07 ~ 2024.06** : 삼성 청년 SW 아카데미 10기          |
+|   **2024.08 ~ 2024.12** : 광주 청년 인턴쉽 - (주)아토모스 개발팀    |
 
 </div>
 
@@ -51,6 +52,7 @@
 
 - 정적 타입 지정을 통해 코드의 가독성과 안정성을 높일 수 있습니다.
 - React에서 TypeScript를 사용하여 프로젝트를 진행한 경험이 있습니다.
+- TypeScript의 고급 기능인 제네릭을 아직 완벽하게 활용하진 못하지만, 점진적으로 학습하고 있습니다.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 🟦🟦⬜⬜⬜
@@ -76,6 +78,18 @@
 🟦🟦⬜⬜⬜
 
 - Django REST Framework를 활용하여 API 개발한 경험이 있습니다.
+
+![Nest.js](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
+🟦🟦🟦⬜⬜
+
+- REST API를 구축하여 클라이언트와의 데이터 통신을 처리한 경험이 있습니다.
+- GraphQL을 활용한 데이터 쿼리 처리 및 API 서버 구축을 진행한 경험이 있습니다.
+- 기본적인 서비스 및 컨트롤러 생성, 의존성 주입 등의 NestJS 핵심 기능을 이해하고 있습니다.
+
+![Nust.js](https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+🟦🟦🟦⬜⬜
+
+- Vue.js를 활용한 컴포넌트 개발, Pinia를 활용한 상태 관리 경험이 있습니다.
 
 ### 블록체인
 
@@ -122,12 +136,12 @@
  -->
 
 | <a href="/kor/BizCard.md"><img src="./assets/BizCard.png" height="50"/></a> | <a href="/kor/Epilogue.md"><img src="./assets/Epilogue.png" width="100"/></a> | <a href="/kor/Mela.md"><img src="./assets/mela.png" width="100"/></a> |
-| :-------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------: |
-|                      <a href="/kor/BizCard.md">BizCard</a>                      |                     <a href="/kor/Epilogue.md">E:pilogue</a>                      |                  <a href="/kor/Mela.md">🎶 Mela!</a>                  |
-|                        MS Teams 內 명함 관리 서비스                         |                     블록체인을 활용한 디지털 유언 서비스                      |                  음악인을 위한 공동 작업 플랫폼                   |
-|                           2024.04.08 ~ 2024.05.17                           |                            2024.02.19 ~ 2024.04.05                            |                      2024.01.08 ~ 2024.02.16                      |
-|                                 프론트엔드                                  |                             프론트엔드 & 블록체인                             |                            프론트엔드                             |
+| :-------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :-------------------------------------------------------------------: |
+|                    <a href="/kor/BizCard.md">BizCard</a>                    |                   <a href="/kor/Epilogue.md">E:pilogue</a>                    |                  <a href="/kor/Mela.md">🎶 Mela!</a>                  |
+|                        MS Teams 內 명함 관리 서비스                         |                     블록체인을 활용한 디지털 유언 서비스                      |                    음악인을 위한 공동 작업 플랫폼                     |
+|                           2024.04.08 ~ 2024.05.17                           |                            2024.02.19 ~ 2024.04.05                            |                        2024.01.08 ~ 2024.02.16                        |
+|                                 프론트엔드                                  |                             프론트엔드 & 블록체인                             |                              프론트엔드                               |
 
 ---
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
